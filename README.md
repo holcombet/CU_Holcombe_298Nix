@@ -4,14 +4,20 @@ Fall 2025
 
 ## Homework directions
 
-**Fork** this repository in Github. This will create a *copy* of the original repository to your personal Github account.
+1. **Fork** this repository in Github. This will create a *copy* of the original repository to your personal Github account.
 
-It has the same commit history, branches, etc., but the forked repository is under your *personal* account. You have full read/write permissions in your forked repository.
+    The forked repository will have the same commit history, branches, etc., but the forked repository is under your *personal* account. You have full read/write permissions in your forked repository.
 
-**Clone** the forked repository to local (put the repository in your cpsc298Nix directory).
+2. **Clone** the forked repository to local (put the repository in your cpsc298Nix directory).
+   
+4. **Enter** the new repository (`cd CU_Holcombe_298Nix`)
 
-**Pull** changes from remote to your local (to make sure everything is synced).
+5. **Pull** changes from remote to your local (to make sure everything is synced).
 
-There is a file named `matrix.sh` in the repository. Make sure you have execution permissions for this file, then run the script (`./matrix.sh`).
+6. There is a file named `matrix.sh` in the repository. Make sure you have execution permissions for this file, then run the script (`./matrix.sh`) in the terminal.
+
+7. Take a screenshot of what the script produces.
+
+8. Submit this screenshot to the Canvas Assignment "Assignment 6 -- Forking a Repository"
 
 
