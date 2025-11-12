@@ -18,6 +18,6 @@ Fall 2025
 
 7. Take a screenshot of what the script produces.
 
-8. Submit this screenshot to the Canvas Assignment "Assignment 6 -- Forking a Repository"
+8. Submit this screenshot to the Canvas Assignment "Assignment 7 -- Forking a Repository"
 
 
